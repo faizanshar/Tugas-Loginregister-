@@ -11,20 +11,20 @@ export default class Register extends Component {
             <View style={styles.view3}>
               <Text style={styles.name}>Name</Text>
               <TextInput style={styles.textinput1} placeholder={'  name'} />
-            </View>
-            <View>
+            
+            
               <Text style={styles.username}>Email</Text>
               <TextInput style={styles.textinput1} placeholder={'  email'} />
-            </View>
-            <View>
+            
+            
               <Text style={styles.username}>Username</Text>
               <TextInput style={styles.textinput1} placeholder={'  username'} />
-            </View>
-            <View>
+          
+           
               <Text style={styles.password}>Password</Text>
               <TextInput style={styles.textinput1} placeholder={'  password'} />
-            </View>
-            <View>
+           
+            
               <Text style={styles.password}>Password Confirm</Text>
               <TextInput style={styles.textinput1} placeholder={'  password'} />
             </View>

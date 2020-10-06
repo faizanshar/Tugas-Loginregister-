@@ -13,6 +13,7 @@ export const styles = StyleSheet.create({
     width: 300,
     borderRadius: 20,
     alignItems: 'center',
+    
   },
   image: {
     width: 200,
@@ -38,13 +39,15 @@ export const styles = StyleSheet.create({
     fontSize: 40,
     color: '#1fe1ff',
     textAlign: 'center',
+    marginRight: 20
   },
   view4:{
-      marginLeft:20  
+      marginLeft:40
   },
   view3: {
       marginTop: 70,
-      marginRight: 60
+      marginRight: 60,
+      marginLeft: 20
   },
   username: {
     fontSize: 20,
